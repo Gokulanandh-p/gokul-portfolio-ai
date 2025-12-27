@@ -1,0 +1,87 @@
+{
+  "name": "Gokul Anandh Palanisamy",
+  "headline": "MBA (Business Analytics & Supply Chain) | Data Analytics | Power BI | Operations",
+  "location": "Cincinnati, OH",
+  "email": "gokulanandh0001@gmail.com",
+
+  "visaStatus": "H-1B",
+  "employer": "Elite IT Solutions",
+
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/gokul-anandh/",
+    "github": "https://github.com/Gokulanandh-p"
+  },
+
+  "resumePath": "/GokulAnandh_Resume.pdf",
+  "photoPath": "/profile.jpg",
+
+  "intro": "Business analytics and supply chain professional focused on data-driven decision making, dashboarding, and operational improvement. Open to client-facing roles in analytics, BI, supply chain, and operations in the U.S.",
+
+  "work": [
+    {
+      "title": "Digital Orders Team Associate",
+      "company": "Walmart Inc., KY",
+      "date": "Sept 2024 – Jul 2025",
+      "highlights": [
+        "Supported high-volume digital order operations while maintaining accuracy and speed.",
+        "Collaborated with team members to meet daily fulfillment and service goals."
+      ]
+    },
+    {
+      "title": "Graduate Research Assistant",
+      "company": "Northern Kentucky University, KY",
+      "date": "Jan 2023 – May 2024",
+      "highlights": [
+        "Assisted with research activities and data handling for academic projects.",
+        "Supported reporting and analysis tasks to help drive outcomes."
+      ]
+    }
+  ],
+
+  "education": [
+    {
+      "degree": "MBA (Northern Kentucky University)",
+      "date": "2022 – 2024",
+      "logo": "/logos/nku.png"
+    },
+    {
+      "degree": "B.Sc IT (PSG College of Arts & Science)",
+      "date": "2019 – 2022",
+      "logo": "/logos/psg.png"
+    }
+  ],
+
+  "skills": [
+    "Data Analytics",
+    "Power BI",
+    "Excel",
+    "SQL",
+    "Python",
+    "Supply Chain",
+    "Operations",
+    "Procurement"
+  ],
+
+  "projects": [
+    {
+      "title": "NODEBASIC_CRUDLoginPage",
+      "description": "Authentication + CRUD (Node basics).",
+      "repo": "https://github.com/Gokulanandh-p/NODEBASIC_CRUDLoginPage"
+    },
+    {
+      "title": "Visual-Analysis-of-Google-Play-Store-Apps",
+      "description": "Visual analytics project on Google Play Store apps.",
+      "repo": "https://github.com/Gokulanandh-p/Visual-Analysis-of-Google-Play-Store-Apps"
+    },
+    {
+      "title": "Amazon-Connect-IVR-system",
+      "description": "Amazon Connect IVR flow + backend integration.",
+      "repo": "https://github.com/Gokulanandh-p/Amazon-Connect-IVR-system"
+    },
+    {
+      "title": "whoisgokul",
+      "description": "AI chat about me (Gemini-based personal assistant).",
+      "repo": "https://github.com/Gokulanandh-p/whoisgokul"
+    }
+  ]
+}
